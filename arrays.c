@@ -1,8 +1,3 @@
-/* SYSC 2006 Lab 4. 
-
- * Incomplete implementations of the functions that will be coded during the lab.
- */
-
 #include <stdlib.h>
 #include <math.h>
 #include <stdbool.h>
